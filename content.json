@@ -1,0 +1,66 @@
+{
+  "research": [
+    {
+      "title": "Lightweight Wi-Fi Intrusion Detection",
+      "description": "Developing lightweight CNN architectures for real-time Wi-Fi intrusion detection utilizing 2D Gramian Angular Field (GAF) traffic representations.",
+      "date": "2025 - 2026"
+    },
+    {
+      "title": "Adversarial & Privacy-Preserving ML",
+      "description": "Designing educational modules and practical frameworks centered on AI trust, differential privacy, and defense against adversarial threats.",
+      "date": "2024 - 2025"
+    },
+    {
+      "title": "Enterprise AI & Digital Transformation",
+      "description": "Architecting AI integrations and modernizing digital workflows for enterprise financial and operational systems.",
+      "date": "2026"
+    }
+  ],
+  "projects": [
+    {
+      "title": "2D Traffic Representation IDS Engine",
+      "description": "Built a computational framework converting high-dimensional network packet traffic into GAF image representations for rapid CNN-based classification.",
+      "date": "2025",
+      "link": "#contact",
+      "cta": "Discuss research"
+    },
+    {
+      "title": "Adversarial AI & Privacy Toolkit",
+      "description": "Developed interactive training modules covering FGSM/PGD threat modeling, differential privacy accountants, and robust neural architectures.",
+      "date": "2024",
+      "link": "#contact",
+      "cta": "Learn more"
+    },
+    {
+      "title": "Enterprise AI Integration Pipeline",
+      "description": "Led initiatives at Equitable Financial focusing on enterprise digital transformation and scalable AI integration across core platforms.",
+      "date": "2026",
+      "link": "#contact",
+      "cta": "Get in touch"
+    }
+  ],
+  "awards": [
+    {
+      "title": "NSF Research Grant Support",
+      "description": "Awarded National Science Foundation grant funding at Purdue University Northwest for research in AI trust and cybersecurity.",
+      "date": "2024 - 2025"
+    },
+    {
+      "title": "IEEE Conference Proceedings Publication",
+      "description": "Recognized for peer-reviewed research accepted and presented at IEEE INFOCOM Workshops and extended IEEE journal proceedings.",
+      "date": "2025"
+    }
+  ],
+  "news": [
+    {
+      "title": "Paper Accepted at IEEE INFOCOM Workshops",
+      "description": "Published research on lightweight deep learning architectures for real-time edge network intrusion detection.",
+      "date": "2025"
+    },
+    {
+      "title": "Master's Thesis Research Completed",
+      "description": "Finalized thesis work at Purdue University Northwest detailing machine learning approaches for edge defense and privacy-preserving AI.",
+      "date": "2025"
+    }
+  ]
+}
